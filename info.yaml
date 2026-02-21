@@ -47,3 +47,11 @@ pinout:
 
 # Do not change!
 yaml_version: 6
+
+## How it works
+
+A clock diver and two gates.
+
+## How to test
+
+Se changes on 7-seg leds.
