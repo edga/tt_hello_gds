@@ -23,7 +23,7 @@ pinout:
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
-  ui[7]: ""
+  ui[7]: "gate_input"
 
   # Outputs
   uo[0]: ""
